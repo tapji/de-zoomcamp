@@ -1,31 +1,15 @@
-# de-zoomcamp
+Welcome to your new dbt project!
 
-This repository is used for practicing data engineering using datatalks' data engineering zoomcamp course. The following concepts in data engineering are learned and applied to solve practical weekly assignments:
+### Using the starter project
 
-Module 1: Introduction & Prerequisites
+Try running the following commands:
+- dbt run
+- dbt test
 
-Homework
 
-Module 2: Workflow Orchestration
-
-Homework
-Office hours
-Workshop 1: Data Ingestion
-Workshop with dlt
-Homework
-
-Module 3: Data Warehouse
-
-Homework
-
-Module 4: Analytics Engineering
-
-Homework
-
-Module 5: Batch processing
-Homework
-
-Module 6: Stream Processing
-Homework
-
-Project
+### Resources:
+- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
+- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
+- Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
+- Find [dbt events](https://events.getdbt.com) near you
+- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
